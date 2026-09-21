@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "scheme": "MEGE-NAMEPLATE-1 (custom; not C2PA)",
+  "author": "MEGE / 日月重工",
+  "canonical": "https://megezero.github.io/OWN/",
+  "createdAt": "2026-09-21T18:54:43.565Z",
+  "files": [
+    {
+      "path": "_astro/Layout.oC7tlmj6.css",
+      "id": "MEGE-AC5929BAB2DB",
+      "sha256": "ac5929bab2db806e719519d48a327ab50d35f98ea73c497a8cd0fc5a065f838f",
+      "sourceSHA256": "ac5929bab2db806e719519d48a327ab50d35f98ea73c497a8cd0fc5a065f838f",
+      "visibleNameplate": false
+    },
+    {
+      "path": "_astro/public-actions.js",
+      "sha256": "1ab712ade74a46436423a042e96a945a16dfdba8aea793c5c6a784d6a0318015"
+    },
+    {
+      "path": "_headers",
+      "sha256": "b7e727445cfa967faa35ef12a960a553530f97bf3f61e5b2deda028dd1265c58"
+    },
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "id": "MEGE-2D05CB8FE85B",
+      "sha256": "e0daf41c09a7d7f835da2a383c198e99177990acfc3ac859eb7b955ef246e6e4",
+      "sourceSHA256": "2d05cb8fe85b2e6bdde99f502a5629965a5ad9b08273c916d6a3889bc2672bee",
+      "visibleNameplate": false
+    },
+    {
+      "path": "about/index.html",
+      "id": "MEGE-BDC45C7A2363",
+      "sha256": "6b4e841afc01056ddb72506cda695bfbee6ce9cf2c75965b74d864965ca26775",
+      "sourceSHA256": "bdc45c7a23636d82550f12a0792168cc70d3c92390a776aef7a3109ead879b77",
+      "visibleNameplate": false
+    },
+    {
+      "path": "assets/egyptian-detail-01.webp",
+      "id": "MEGE-9C79E0A8BEBC",
+      "sha256": "85a965577096127d01a37696b0e3f0be94b9f9847e909ac612357b3545220077",
+      "sourceSHA256": "9c79e0a8bebcec9c63a6d68c39bcd5dbe73bca7c49dcce4ebf8f1dcb278d9f07",
+      "visibleNameplate": true
+    },
+    {
+      "path": "assets/egyptian-detail-02.webp",
+      "id": "MEGE-59FB4E4E76E2",
+      "sha256": "35271af937da40c9c0d60f988553f280be06917b6c02b1b63ca03ec92d2e3c73",
+      "sourceSHA256": "59fb4e4e76e2e8b0ecdbf20f9092fa4647d925706b98a8924bd7c101630c8f8a",
+      "visibleNameplate": true
+    },
+    {
+      "path": "assets/egyptian-hero.webp",
+      "id": "MEGE-6F264CBA2325",
+      "sha256": "bc1ceb7a9966cbc812cb0f4aab5219cbb8182fe054b080ea23438faf21d4647a",
+      "sourceSHA256": "6f264cba23252fc0bea82f1c5dc94afff64fd62962f89f7083e17aa85476afab",
+      "visibleNameplate": true
+    },
+    {
+      "path": "assets/egyptian-object.webp",
+      "id": "MEGE-0EE34CB61160",
+      "sha256": "b33c96f057bb7a0f36485e815a83c889861adb69ec46ce8ac080bf1a26e5fd1a",
+      "sourceSHA256": "0ee34cb61160a43ea2a3a95d7280f2ac07d68fdd7cfb9971c4cdf66a20e7a27e",
+      "visibleNameplate": true
+    },
+    {
+      "path": "assets/favicon.png",
+      "id": "MEGE-03419EAB26E8",
+      "sha256": "7cd81e4de8b5e9d507c154543bfe41282e0f5d4cc41421c8e1c2da682e4efa2f",
+      "sourceSHA256": "03419eab26e80387c9e64ac4b89fd24effd2dc307cdc9550ab9b1e303f5446a1",
+      "visibleNameplate": false
+    },
+    {
+      "path": "assets/monogram.webp",
+      "id": "MEGE-D0AB35EA3F07",
+      "sha256": "317ba3032be89c06fb884385ede5fc40031f3b1be422de934d15c83a1c67793b",
+      "sourceSHA256": "d0ab35ea3f073666c89b9aa4e442e6cdc340e16a287a525cf3e0f7af457e6650",
+      "visibleNameplate": false
+    },
+    {
+      "path": "assets/wordmark.webp",
+      "id": "MEGE-EE0D7B3EDB5F",
+      "sha256": "424b48b6a2725557ac0a115687b3fd3b1c697f907f82153ac90924c9a5db2252",
+      "sourceSHA256": "ee0d7b3edb5f1097e885cde9041fba7e1c246ba84abe9ab6f48567e539e1eac5",
+      "visibleNameplate": false
+    },
+    {
+      "path": "folio/index.html",
+      "id": "MEGE-C2E64D8898A8",
+      "sha256": "aaf0ec68c6848c96028f357831a755d2d850beeb9a7b5424a3da84735c0fe271",
+      "sourceSHA256": "c2e64d8898a8799310f895c6ff009c42ca24ffa227c51c002f41ae5a90475fb7",
+      "visibleNameplate": false
+    },
+    {
+      "path": "index.html",
+      "id": "MEGE-39CEB80B70D9",
+      "sha256": "220cda484eeacc1ede08ce4e2b551f28c452da4bc4c9190d293639a2d8eb5718",
+      "sourceSHA256": "39ceb80b70d9d325f1d471f3b817c2e92f2a9ba4c4314d1ed852c9dcbc366801",
+      "visibleNameplate": false
+    },
+    {
+      "path": "lab/index.html",
+      "id": "MEGE-FC3FF902D3DD",
+      "sha256": "416e73d50e099518c63e2b26a12d36af8db86ca82455fd5748a07476ee92a6f2",
+      "sourceSHA256": "fc3ff902d3ddcfe74111ab79b80997d7811c8d3e85aec9a6078f63f40a8ebab5",
+      "visibleNameplate": false
+    },
+    {
+      "path": "photography/index.html",
+      "id": "MEGE-DE9760495A56",
+      "sha256": "5f2866eb21035abb8ae8609ab7580b27dfcd6e295ece2c43799e737952b0d14c",
+      "sourceSHA256": "de9760495a565a630a25beb90a431d456c474a4e7c206bd47e89923c006a5929",
+      "visibleNameplate": false
+    },
+    {
+      "path": "RIGHTS.txt",
+      "sha256": "4a8789ffed2d6acfa6e4684a7037200cd8df9121a487633fb59370ffe3ed7515"
+    },
+    {
+      "path": "work/egyptian-object/index.html",
+      "id": "MEGE-AB3830BCDC08",
+      "sha256": "746d0dcd6b813b250d4e583e093d8f7e9fd6a959170ddb86bd811cb04eff6edc",
+      "sourceSHA256": "ab3830bcdc085e56e3f9824f0626dfcc8404e8e90c945bc3cc01c17cf4c40c11",
+      "visibleNameplate": false
+    },
+    {
+      "path": "work/index.html",
+      "id": "MEGE-E17E8CF6A3FF",
+      "sha256": "5958ffba17b047d2b57911b240392f47cc580af4b228b0b701d438927bf59ea8",
+      "sourceSHA256": "e17e8cf6a3ffc7568b0b256228853d6ef50f8930d5aab06c866c49c7b8650427",
+      "visibleNameplate": false
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+document.querySelectorAll('.print-button').forEach(b=>b.addEventListener('click',()=>window.print()));document.querySelectorAll('a[href="#top"]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}));

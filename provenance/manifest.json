@@ -1,16 +1,16 @@
 {
-  "version": 1,
-  "scheme": "MEGE-NAMEPLATE-1 (custom; not C2PA)",
+  "version": 2,
+  "scheme": "MEGE-NAMEPLATE-2 (custom; not C2PA)",
   "author": "MEGE / 日月重工",
   "canonical": "https://megezero.github.io/OWN/",
-  "createdAt": "2026-09-21T19:14:28.779Z",
+  "createdAt": "2026-09-27T09:21:25.676Z",
   "files": [
     {
-      "path": "_astro/Layout.CPoiszCT.css",
-      "id": "MEGE-D5F9C3153A18",
-      "sha256": "d5f9c3153a182a929cc2b81cbdbc2aa54a53786118dfd1b60a10b81665aeb99b",
-      "sourceSHA256": "d5f9c3153a182a929cc2b81cbdbc2aa54a53786118dfd1b60a10b81665aeb99b",
-      "visibleNameplate": false
+      "path": "_astro/Layout.Dx9m8psm.css",
+      "id": "MEGE-BCEAE4DEEEE9",
+      "sha256": "bceae4deeee912d013ba02d76832cb10dda5bd2121f596ff7e0eed47e8b7189f",
+      "sourceSHA256": "bceae4deeee912d013ba02d76832cb10dda5bd2121f596ff7e0eed47e8b7189f",
+      "embeddedChromaMark": false
     },
     {
       "path": "_astro/public-actions.js",
@@ -26,94 +26,94 @@
     },
     {
       "path": "404.html",
-      "id": "MEGE-0DF881BF6810",
-      "sha256": "c567d3a74e4226ca106ce752c05ee65b7794dfd7bddf4500ee6fc919d76b33f4",
-      "sourceSHA256": "0df881bf6810c478f259616ae040ac81542e69d62271f8a6515ab2c1c9e1c41d",
-      "visibleNameplate": false
+      "id": "MEGE-9DB58C495297",
+      "sha256": "c91c3b9fb47645c34979a620d6766032462abc1f2840a71a3967041993945a71",
+      "sourceSHA256": "9db58c4952978cd23f1fcf90e8ece7c3f114106e0a9e49a490238a1a15e07ff5",
+      "embeddedChromaMark": false
     },
     {
       "path": "about/index.html",
-      "id": "MEGE-7E83AB33CD25",
-      "sha256": "ba7d160e4bde0f6e1d172ab269ea56370bf949fd6f43d33b4c20245cec6b787c",
-      "sourceSHA256": "7e83ab33cd25ed4f68476dc1c5f95e26bb2fb6fc0f2be2bd6db67c7cbaf2e111",
-      "visibleNameplate": false
+      "id": "MEGE-F466F0FC1358",
+      "sha256": "200e7d3cf74a69a5f0f9483193050ed50c9aceafe09d1996aa9a87c98ff4bb81",
+      "sourceSHA256": "f466f0fc135832178c73bb7f681a647fdaa973a4e3efd132f34c018f6d1f87c9",
+      "embeddedChromaMark": false
     },
     {
       "path": "assets/egyptian-detail-01.webp",
       "id": "MEGE-9C79E0A8BEBC",
-      "sha256": "85a965577096127d01a37696b0e3f0be94b9f9847e909ac612357b3545220077",
+      "sha256": "668d7823534ff8b638a035d3a1dbe3b16e66b7fc4e2fb3d7eefa44c4275ed725",
       "sourceSHA256": "9c79e0a8bebcec9c63a6d68c39bcd5dbe73bca7c49dcce4ebf8f1dcb278d9f07",
-      "visibleNameplate": true
+      "embeddedChromaMark": true
     },
     {
       "path": "assets/egyptian-detail-02.webp",
       "id": "MEGE-59FB4E4E76E2",
-      "sha256": "35271af937da40c9c0d60f988553f280be06917b6c02b1b63ca03ec92d2e3c73",
+      "sha256": "6746768558b7aaca9e09f31b0043a8cdc7d055027477b10cd38729e1bda9efcb",
       "sourceSHA256": "59fb4e4e76e2e8b0ecdbf20f9092fa4647d925706b98a8924bd7c101630c8f8a",
-      "visibleNameplate": true
+      "embeddedChromaMark": true
     },
     {
       "path": "assets/egyptian-hero.webp",
       "id": "MEGE-6F264CBA2325",
-      "sha256": "bc1ceb7a9966cbc812cb0f4aab5219cbb8182fe054b080ea23438faf21d4647a",
+      "sha256": "882df5cad7334f4e68b2051466f99dd0a72d615d66a725aaa42c08104ce8bb66",
       "sourceSHA256": "6f264cba23252fc0bea82f1c5dc94afff64fd62962f89f7083e17aa85476afab",
-      "visibleNameplate": true
+      "embeddedChromaMark": true
     },
     {
       "path": "assets/egyptian-object.webp",
       "id": "MEGE-0EE34CB61160",
-      "sha256": "b33c96f057bb7a0f36485e815a83c889861adb69ec46ce8ac080bf1a26e5fd1a",
+      "sha256": "edd1a7f0b82ceab1e670653c61f97accb55a8dfa57e9ea20fcc2e22922bba7ea",
       "sourceSHA256": "0ee34cb61160a43ea2a3a95d7280f2ac07d68fdd7cfb9971c4cdf66a20e7a27e",
-      "visibleNameplate": true
+      "embeddedChromaMark": true
     },
     {
       "path": "assets/favicon.png",
       "id": "MEGE-03419EAB26E8",
       "sha256": "70a7bef708fad5ab6a83d88368c2fabba9d669023a7053db061978c44748c669",
       "sourceSHA256": "03419eab26e80387c9e64ac4b89fd24effd2dc307cdc9550ab9b1e303f5446a1",
-      "visibleNameplate": false
+      "embeddedChromaMark": false
     },
     {
       "path": "assets/monogram.webp",
       "id": "MEGE-D0AB35EA3F07",
-      "sha256": "317ba3032be89c06fb884385ede5fc40031f3b1be422de934d15c83a1c67793b",
+      "sha256": "74d6eb3bc94213571d67043a7f5ec63a127998fdf04c0b350463580791283739",
       "sourceSHA256": "d0ab35ea3f073666c89b9aa4e442e6cdc340e16a287a525cf3e0f7af457e6650",
-      "visibleNameplate": false
+      "embeddedChromaMark": false
     },
     {
       "path": "assets/wordmark.webp",
       "id": "MEGE-EE0D7B3EDB5F",
-      "sha256": "424b48b6a2725557ac0a115687b3fd3b1c697f907f82153ac90924c9a5db2252",
+      "sha256": "a232fd9cb7cf274eebff59d3e10dcccb2299160ef1c5f713d360c9747b356266",
       "sourceSHA256": "ee0d7b3edb5f1097e885cde9041fba7e1c246ba84abe9ab6f48567e539e1eac5",
-      "visibleNameplate": false
+      "embeddedChromaMark": false
     },
     {
       "path": "folio/index.html",
-      "id": "MEGE-5ABFAAB9267A",
-      "sha256": "ee611ae02165f71a9e08caff0be8fe20cdf4b0e4787118890a4b30ddafdeac3b",
-      "sourceSHA256": "5abfaab9267aecf703360428bae3df5308d1fdf87c4dca2da34ac6213cbd8425",
-      "visibleNameplate": false
+      "id": "MEGE-BDD86458A617",
+      "sha256": "025160c74a6b5acd15d3c05693bdd6e3fd57f83b83df803ca99725c8e9e2d89a",
+      "sourceSHA256": "bdd86458a617bb19dd602792938e1807334b7fa53d6ffe2c451e55ff56f072c1",
+      "embeddedChromaMark": false
     },
     {
       "path": "index.html",
-      "id": "MEGE-0BE02E83C659",
-      "sha256": "3427e5e32b937feb34667455d68af01adf68818ff967ba12069b7a1273e37b05",
-      "sourceSHA256": "0be02e83c6593cc3af708830f18f61d0e17a403ecdcfb220fd65558fa2389eaa",
-      "visibleNameplate": false
+      "id": "MEGE-AE9310189430",
+      "sha256": "1316ec98f0276c618b394e27e350ded683aa855f7f318bc6c971c07bec70f17d",
+      "sourceSHA256": "ae9310189430013feb776e06d4f5a35c467d58f19cf81ee5448690fcf3438260",
+      "embeddedChromaMark": false
     },
     {
       "path": "lab/index.html",
-      "id": "MEGE-DF8EBE028030",
-      "sha256": "a77b23a4ddca81e8c4dd3984afc43184e4ba6b787942b9322ce7f21b6200cc4f",
-      "sourceSHA256": "df8ebe0280308133e41ec94f5da90aff673f9d0641a3470d6239d0da865e578b",
-      "visibleNameplate": false
+      "id": "MEGE-680B66D843CE",
+      "sha256": "2bd894c90598e3bc86b42346bf2fd3cf29f9eeb4e529770d0e57db03b6e7e73f",
+      "sourceSHA256": "680b66d843ce6feb3b5ee4f6427e415fb12865a3ed3038eee508a15f42088ef9",
+      "embeddedChromaMark": false
     },
     {
       "path": "photography/index.html",
-      "id": "MEGE-1D57E932D918",
-      "sha256": "0e2eb74cb5fc7d64b88183f8783692a998f3f1ffa0ff64347506fba4bff37ce3",
-      "sourceSHA256": "1d57e932d91872cb380f12fd0f9e574dd5cca92318a9c930269c011a3a6fa979",
-      "visibleNameplate": false
+      "id": "MEGE-98968838AD06",
+      "sha256": "7d86838a72eed83169bda5664445ac55ed10a5246112a498434ee28521143eaa",
+      "sourceSHA256": "98968838ad0619511c2679c4527dd31a03720bdad8c4ab00027c6c847d0941d9",
+      "embeddedChromaMark": false
     },
     {
       "path": "RIGHTS.txt",
@@ -121,17 +121,17 @@
     },
     {
       "path": "work/egyptian-object/index.html",
-      "id": "MEGE-A518CB46435C",
-      "sha256": "41ccc9733958399ffdf3e9f86544e62d0ff144a1fe2d071d7445e8f5a8b1ec51",
-      "sourceSHA256": "a518cb46435c5de86c6fe03c14159da9480306091e8288a709267f85202e6328",
-      "visibleNameplate": false
+      "id": "MEGE-5A4DAB63141F",
+      "sha256": "ce5f8ba811e232be8a0dd4df308a8c3914212a3ab6de79ebe625b8db28da8467",
+      "sourceSHA256": "5a4dab63141f37d11b06b231f118e7010870d1be89df8c206c919afa4be42675",
+      "embeddedChromaMark": false
     },
     {
       "path": "work/index.html",
-      "id": "MEGE-B411D172851C",
-      "sha256": "7109b6dd692396d8f8b5042c36e9d0e2babbcf0fa48af49dfc556c06ec8f55a3",
-      "sourceSHA256": "b411d172851c1a5aef6476fb225cd37fed0dbed78e438dbed151521e0862fc6c",
-      "visibleNameplate": false
+      "id": "MEGE-6FB95AAEDE10",
+      "sha256": "6dc1283407631609894bf680008aeb659c055a6a6e82cec03885b3b0efadbc32",
+      "sourceSHA256": "6fb95aaede10190466e907c8eafd6df9a79939eb43db9dd6bbbb5affbbefef7a",
+      "embeddedChromaMark": false
     }
   ]
 }

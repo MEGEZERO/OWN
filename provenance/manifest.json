@@ -3,13 +3,13 @@
   "scheme": "MEGE-NAMEPLATE-2 (custom; not C2PA)",
   "author": "MEGE / 日月重工",
   "canonical": "https://megezero.github.io/OWN/",
-  "createdAt": "2026-09-28T10:52:18.435Z",
+  "createdAt": "2026-09-28T16:19:50.096Z",
   "files": [
     {
-      "path": "_astro/Layout.De6bap8L.css",
-      "id": "MEGE-680D4BF2CAC1",
-      "sha256": "680d4bf2cac190c4b6e6c1cfd0bca6fe8698fe973a3542971d949bc813212f12",
-      "sourceSHA256": "680d4bf2cac190c4b6e6c1cfd0bca6fe8698fe973a3542971d949bc813212f12",
+      "path": "_astro/Layout.DpPIdqXN.css",
+      "id": "MEGE-41CCE90EA490",
+      "sha256": "41cce90ea490f0620f0a43c6a5bd0ae6378dc4ed36d0e1369a31e437b269fdf1",
+      "sourceSHA256": "41cce90ea490f0620f0a43c6a5bd0ae6378dc4ed36d0e1369a31e437b269fdf1",
       "embeddedChromaMark": false
     },
     {
@@ -26,16 +26,16 @@
     },
     {
       "path": "404.html",
-      "id": "MEGE-433C952D0BA5",
-      "sha256": "13521155dea2980cd521e640ffb52536c9c0614c827ee71adf074fc3cfb8b043",
-      "sourceSHA256": "433c952d0ba5f0430086acb40a4e9803ef38f82308bdc2cabcd35e40e0d53211",
+      "id": "MEGE-723F4F061125",
+      "sha256": "9d6b0efed1f9b7d28b8977b823f5b5d9c9905a3476fae14734d35dbd769965c1",
+      "sourceSHA256": "723f4f061125d8269b57757b5024e96d04bfc85c883d95c6ee06cac70b43b8a0",
       "embeddedChromaMark": false
     },
     {
       "path": "about/index.html",
-      "id": "MEGE-362A3A676C75",
-      "sha256": "07b81024b81182e6487bdd0a2165538aaac34d7a981fe92804f085d2c4d840ea",
-      "sourceSHA256": "362a3a676c75e6262d763e94890224087c13172932c356a7839ab902f37f8936",
+      "id": "MEGE-729BEEFE45E4",
+      "sha256": "28f69d22592fd3c0632aaef1454545b53fe16d4bbb4a963da3021ffaa6efc29c",
+      "sourceSHA256": "729beefe45e4fafa1b627e43faa5cf6698d49bb6eb9793b1b1827221c4821fa8",
       "embeddedChromaMark": false
     },
     {
@@ -81,6 +81,13 @@
       "embeddedChromaMark": true
     },
     {
+      "path": "assets/photo-2a3cd0fb-3932-4668-883a-a439e8d6e84c.webp",
+      "id": "MEGE-4EA2C4039C43",
+      "sha256": "a1ea6713255e264feb76efe67dd34fbe9f5692e57d4f00c69ffe0f912ef5d352",
+      "sourceSHA256": "4ea2c4039c43adc96f9e444c248399045482723f191d96dedd3bfa0a6608dd61",
+      "embeddedChromaMark": true
+    },
+    {
       "path": "assets/photo-750ac078-8967-439b-93cc-ce2dade2d9c9.webp",
       "id": "MEGE-6CBCB7379B0F",
       "sha256": "d0a7c02fe75989859fc0b0f48f8015dbc5ab57fdba5393c7c38a4175829fa74d",
@@ -102,31 +109,87 @@
       "embeddedChromaMark": false
     },
     {
+      "path": "en/about/index.html",
+      "id": "MEGE-809CE84AB269",
+      "sha256": "b6074d004ba8705f13612322e109391fd4acb0684b640f0eec682e8599a73b68",
+      "sourceSHA256": "809ce84ab269f90a07a993a25582ed6c74c43821d23d0e8301c552bb57490312",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/folio/index.html",
+      "id": "MEGE-1A0920409357",
+      "sha256": "2323df3ea449ac504f15a3909f6d901cce277e581483db45122d8a9bc6053f66",
+      "sourceSHA256": "1a09204093570e8f44ff7e01c63b5e817ee3f50e87cd7e4abd96211be5204ff4",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/index.html",
+      "id": "MEGE-8E33DAC9341C",
+      "sha256": "3828f1691103f027bf66646ef573689c181b9e3e419e682be39d5de3361384a5",
+      "sourceSHA256": "8e33dac9341c0b8e8bbaf86fb3fd9347c4f1a2b06b440cc0c1c9dcfa90d19571",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/lab/index.html",
+      "id": "MEGE-BA82FF9BC475",
+      "sha256": "c17ff85a74ce3e560b298e45f63fdf9dc5cd49247574fb15b3a3bd7f839d0d99",
+      "sourceSHA256": "ba82ff9bc475f8b29183eaba0fc44ae3bff45752bedf7bb713e16d328d05aed2",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/photography/index.html",
+      "id": "MEGE-55FD636A10E1",
+      "sha256": "08f3061dab9fd482e5838221cf3026e7d704743bd93866c31f269316cbd1b931",
+      "sourceSHA256": "55fd636a10e1c55e56f58d306c90bfcfce5faf6b1454bdc07927ab8ab4f1dce0",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/work/egyptian-object/index.html",
+      "id": "MEGE-37C71BC539E1",
+      "sha256": "d80f49b60aba19d458ac0836cef3bc4950daf88335aa39f663ca116139b5b51b",
+      "sourceSHA256": "37c71bc539e1acfc92ebfbfdfb196b8aff8bd650f5c5325fff64d934ead4e242",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/work/index.html",
+      "id": "MEGE-A01FE37DF6BE",
+      "sha256": "ef5dcf1059ad5213519c01cc230ee08aa143655b7235c1f85e17ef746f7675c7",
+      "sourceSHA256": "a01fe37df6be472b2782635cda2d31c7d9c73853d1df4074fbab384a317a77e5",
+      "embeddedChromaMark": false
+    },
+    {
+      "path": "en/work/work-c1b0e101/index.html",
+      "id": "MEGE-A0015326D790",
+      "sha256": "838aa173115f735762657360f27ecbc1b35b40f9fc061c83ac125bb6e7684513",
+      "sourceSHA256": "a0015326d790d420c2dc2d1920d3301267de87a7a2d604245e2e848ec2f58b69",
+      "embeddedChromaMark": false
+    },
+    {
       "path": "folio/index.html",
-      "id": "MEGE-8B99BC58AA61",
-      "sha256": "174ae8e4e28b98de76a7e7288cbfe28aa19109b86ed4f5a13c964d14011d4d7d",
-      "sourceSHA256": "8b99bc58aa6194820a0c825523622354176b4802df8d04e219aaaf01c6164e68",
+      "id": "MEGE-CA34ADD9A56C",
+      "sha256": "c79329efd06b83f8764b4b493bb3257c38ec94dce0ebabe6833f0a248660f635",
+      "sourceSHA256": "ca34add9a56c47d512bd67609bcbaf1d7ab386a0821fb5585953359f3deddb12",
       "embeddedChromaMark": false
     },
     {
       "path": "index.html",
-      "id": "MEGE-46F714C39A11",
-      "sha256": "f918c5a78f29ef076648e1fc16fbdc14a73cfe911f891c94147bbee3d43737c5",
-      "sourceSHA256": "46f714c39a116ff6349ce5f5b79a925e905574e8540d4e1c07301e0420776e3c",
+      "id": "MEGE-4F0AECF59164",
+      "sha256": "d8829632efed22fd1050231d567074becf2e0ac8849123ff46fbac88690ff625",
+      "sourceSHA256": "4f0aecf59164005f7869261f6f89a41b032a8ef7f06318ff584631478c7f502f",
       "embeddedChromaMark": false
     },
     {
       "path": "lab/index.html",
-      "id": "MEGE-3DCA04AA6031",
-      "sha256": "899bc3402bad383bd35fe8a04f6e97a61444860198071397629569eb2cf93b1d",
-      "sourceSHA256": "3dca04aa6031feb61ef53a3e373dfcb9eaa742bc97dcf241fb5d2993ac138a6a",
+      "id": "MEGE-76EE6B64609C",
+      "sha256": "e765681a4364c76392991495d2dd1973593ccd8a71424aaa6b3172fd1513be48",
+      "sourceSHA256": "76ee6b64609cb566465ffe3f73af610eaf19df8de1c63b1486235f3ac18b3841",
       "embeddedChromaMark": false
     },
     {
       "path": "photography/index.html",
-      "id": "MEGE-496E5D6FDF4E",
-      "sha256": "372d5793c30654b7187e1b8fdf0e0ef09945c1e9aa029624066e08634d77a9c2",
-      "sourceSHA256": "496e5d6fdf4e453464b80ce602e49345203f31aa30bac381a838ba80762f522d",
+      "id": "MEGE-4DEF386156AB",
+      "sha256": "ed7243a8e9f05aaf7b2b34becd8825b31647f9e9496f8bc38d103994cc5642dc",
+      "sourceSHA256": "4def386156ab56201e59c2dea02c59ba17c4206e90bb5350cf209396baf80aa4",
       "embeddedChromaMark": false
     },
     {
@@ -135,23 +198,23 @@
     },
     {
       "path": "work/egyptian-object/index.html",
-      "id": "MEGE-38C285E6A783",
-      "sha256": "85a0fcb9580b876cee05936bec309a178e3d3daf0803b78dae3f19bf3c497000",
-      "sourceSHA256": "38c285e6a7836e5114ade5698e47a086343a8fffa8d9bea5e5a29cb01fd79264",
+      "id": "MEGE-AA6D87C6F1F8",
+      "sha256": "ffb9700b4528ab3a699264c3937b4e5f8f4b3753a4e8702cf5d6fd6f14569da3",
+      "sourceSHA256": "aa6d87c6f1f89c00f5c525a8727ea8253ed154726a1e4121106f9899c2ae0ddd",
       "embeddedChromaMark": false
     },
     {
       "path": "work/index.html",
-      "id": "MEGE-5F5B765C8183",
-      "sha256": "62d213f9f845ee62c011b4542d3ba0a99b62c59940b976b6ceaa6c686aaba0e8",
-      "sourceSHA256": "5f5b765c8183509e7b7f4bd91687563ce7463f0c79ab3fc0eeba9c8ce4526310",
+      "id": "MEGE-5BC322D7C756",
+      "sha256": "4a4548dbdc40c504312ad1616b8b850ec623b3c97c92b533fc8e3452b7fb98f2",
+      "sourceSHA256": "5bc322d7c756f041aa32abb0e0537804950a87bdcade3866edf9c37557161dd9",
       "embeddedChromaMark": false
     },
     {
       "path": "work/work-c1b0e101/index.html",
-      "id": "MEGE-9ADC19B18532",
-      "sha256": "117b3166cf0d20e5ec31dde493e8a9a99a3e7216afe09e3797f3140fb21ffed9",
-      "sourceSHA256": "9adc19b18532df3b4a82b985078d791f6c345c452eda3e6c2bcd01c8f0a5ee95",
+      "id": "MEGE-9A40C9877840",
+      "sha256": "b713ae74f32b17be65ad090a2f998a449f94018862f2dbaa333422e6263fdec6",
+      "sourceSHA256": "9a40c98778403551697dbd67e21a14f613fde00e7a8f7b60c643641f8fd71004",
       "embeddedChromaMark": false
     }
   ]
